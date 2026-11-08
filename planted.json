@@ -1,0 +1,4 @@
+{"_note":"Errors I planted on purpose (SYNTHETIC inputs) to measure recall. Format: [variant, canonical, episode]",
+ "name_variants":[["Arav","Aarav","ep03"],["Mira","Meera","ep04"],["Kapur","Kapoor","ep05"],["Rathod","Rathore","ep02"]],
+ "glossary_hits":[["Grandma","Dadi","ep03"],["Mr. Seth","Sethji","ep04"]],
+ "true_distinct_names_not_errors":[["Anita","Amita"]]}
